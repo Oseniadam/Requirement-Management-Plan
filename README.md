@@ -116,7 +116,23 @@ The process is a really important part of the requirements management plan. You 
 It is important to document and articulate the process so that everybody who has an interest in requirements change complies. It should also link in nicely to the project change management control. Naturally, this would link directly into your issues register and that is where you would hook into your lower level requirements process. It is important that those two controls mesh together on any project.
 
 #  Requirements Types
-Requirement types are a mechanism to enable a cascading hierarchy of requirements. This allows the initial broad coverage of requirements with a business focus to be traced to detailed requirements with a technical focus.
+Requirement types are a mechanism to enable a cascading hierarchy of requirements. 
+This allows the initial broad coverage of requirements with a business focus to be traced to detailed requirements with a technical focus.
+
+# Requirement Attributes
+The following requirement attributes should be captured for all requirements:
+
+Requirement identifier (unique)
+Requirement name
+Requirement description
+Requirement version number
+Requirement type
+Requirement change history
+Requirement status
+Requirement priority
+Requirement owner
+Requirement trace information
+Requirement process/activity reference
 
 ### Coventry, T. (2015). Requirements management – planning for success!: techniques to get it right when planning requirements. Paper presented at PMI® Global Congress 2015—EMEA, London, England. Newtown Square, PA: Project Management Institute.
 
